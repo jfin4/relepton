@@ -1,3 +1,3 @@
 # ReLEPTON (ReLEP subaTOmic kNock-off)
 
-Created for job interview. Wish me luck!
+Created to demonstrate git for a job interview. Wish me luck!
